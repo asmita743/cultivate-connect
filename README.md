@@ -3,3 +3,7 @@ CultivateConnect addresses the pressing issue of limited visibility and informat
 Key features include an attention-grabbing banner with three informative cards, strategically crafted to captivate users' attention and entice exploration. This design element serves to highlight the unique and advanced aspects of agricultural practices, ensuring that users are drawn to discover more about the showcased techniques and products.
 Furthermore, it includes a dedicated blog posts page, offering a dynamic space for daily news updates and sharing farmers' experiences. This feature not only keeps the audience informed but also builds a sense of community around the cultivation experiences and challenges faced by farmers.
 CultivateConnect aligns its purpose and functionality seamlessly with the identified problem statement by providing a visually engaging and user-friendly platform. The project ensures that the agricultural community has a space to share, learn, and connect, thus fostering innovation and growth within the industry. In essence, it acts as a catalyst for bridging the existing gap in agricultural information exchange, promoting a more connected and informed farming ecosystem.
+
+![Project Demo](https://github.com/asmita743/cultivate-connect/assets/113850751/b98a4dc7-f257-400c-addd-275fb4430306)
+![Azure Service(Vs Code)](https://github.com/asmita743/cultivate-connect/assets/113850751/389e836f-32f9-498c-81d3-16c332376c93)
+
